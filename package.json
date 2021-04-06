@@ -1,0 +1,15 @@
+{
+  "name": "test-my-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./my-pack/main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.13.14",
+    "@babel/parser": "^.13.13",
+    "@babel/preset-env": "7.13.12",
+    "@babel/traverse": "7.13.13"
+  }
+}
